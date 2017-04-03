@@ -1,0 +1,83 @@
+<xml version="1.0" encoding="UTF-8">
+
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    
+    
+
+<xs:element name="books">
+  <xs:complexType>
+    <xs:sequence>
+      <xs:element name="bookID" type="xs:decimal"/>
+      <xs:element name="bookName" type="xs:string"/>
+      <xs:element name="publishingDate" type="xs:date"/>
+      <xs:element name="bookEdition" type="xs:decimal"/>
+      <xs:element name="ISBN" type="xs:decimal"/>
+      <xs:element name="bookType" type="xs:string"/>
+      <xs:element name="Language" type="xs:string"/>
+      <xs:element name="page" type="xs:decimal"/>
+      <xs:element name="bookPrice" type="xs:decimal"/>
+      <xs:element name="authorID" type="xs:decimal"/>
+      <xs:element name="publisherID" type="xs:decimal"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:element>
+
+</xs:schema>
+
+
+
+
+<xs:element name="authors">
+  <xs:complexType>
+    <xs:sequence>
+      <xs:element name="authorID" type="xs:decimal"/>
+      <xs:element name="authorName" type="xs:string"/>
+      <xs:element name="authorSurname" type="xs:string"/>
+      <xs:element name="gender" type="xs:string"/>
+      <xs:element name="birthDate" type="xs:date"/>
+      <xs:element name="deathDate" type="xs:date"/>
+        <xs:element name="coutry" type="xs:string"/>
+        <xs:element name="city" type="xs:string"/>
+        <xs:element name="language" type="xs:string"/>
+        <xs:element name="bookID" type="xs:decimal"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:element>
+
+
+
+
+
+
+<xs:element name="publishers">
+  <xs:complexType>
+    <xs:sequence>
+      <xs:element name="publisherID" type="xs:decimal"/>
+      <xs:element name="publisherName" type="xs:string"/>
+      <xs:element name="foundationDate" type="xs:date"/>
+      <xs:element name="publisherPhone" type="xs:decimal"/>
+      <xs:element name="adressID" type="xs:decimal"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:element>
+
+
+
+
+
+
+
+<xs:element name="adresses">
+  <xs:complexType>
+    <xs:sequence>
+      <xs:element name="adressID" type="xs:decimal"/>
+      <xs:element name="district" type="xs:string"/>
+      <xs:element name="street" type="xs:string"/>
+      <xs:element name="doorNumber" type="xs:decimal"/>
+      <xs:element name="postCode" type="xs:decimal"/>
+      <xs:element name="country" type="xs:string"/>
+      <xs:element name="province" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:element>
+

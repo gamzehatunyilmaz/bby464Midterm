@@ -1,0 +1,190 @@
+<xml version="1.0" encoding="UTF-8">
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"              
+xmlns:dc= "http://purl.org/dc/elements/1.1/">
+
+
+
+<rdf:Description rdf:about="Nar Ağacı">
+  <dc:title>Nar Ağacı</dc:title>
+  <dc:creator>Nazan Bekiroğlu</dc:creator>
+  <dc:date>23.11.2016</dc:date>
+  <dc:isVersionOf>19. Baskı</dc:isVersionOf>
+  <dc:identifier>ISBN: 6050807073</dc:identifier>
+  <dc:publisher>Timaş Yayınları</dc:publisher>
+  <dc:format>Ciltsiz</dc:format>
+  <dc:sizeOrDuration>536 s.</dc:sizeOrDuration>
+  <dc:language>Türkçe</dc:language> 
+</rdf:Description>
+
+<rdf:Description rdf:about="Kürk Mantolu Madonna">
+  <dc:title>Kürk Mantolu Madonna</dc:title>
+  <dc:creator>Sabahattin Ali </dc:creator>
+  <dc:date>20.3.2017</dc:date>
+  <dc:isVersionOf>85. Baskı</dc:isVersionOf>
+  <dc:identifier>ISBN: 9753638029</dc:identifier>
+  <dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+  <dc:format>Ciltsiz</dc:format>
+  <dc:sizeOrDuration>160 s.</dc:sizeOrDuration>
+  <dc:language>Türkçe</dc:language> 
+</rdf:Description>
+
+<rdf:Description rdf:about="Su">
+  <dc:title>Su</dc:title>
+  <dc:creator>Buket Uzuner </dc:creator>
+  <dc:date>22.3.2017</dc:date>
+  <dc:isVersionOf>9. Baskı</dc:isVersionOf>
+  <dc:identifier>ISBN: 6051410036</dc:identifier>
+  <dc:publisher>Everest Yayınları</dc:publisher>
+  <dc:format>Ciltsiz</dc:format>
+  <dc:sizeOrDuration>344 s.</dc:sizeOrDuration>
+  <dc:language>Türkçe</dc:language> 
+</rdf:Description>
+    
+<rdf:Description rdf:about="İdeolaçya Örgüsü">
+  <dc:title>İdeolaçya Örgüsü</dc:title>
+  <dc:creator>Necip Fazıl Kısakürek</dc:creator>
+  <dc:date>26.1.2017</dc:date>
+  <dc:isVersionOf>1. Baskı</dc:isVersionOf>
+  <dc:identifier>ISBN: 6059535014</dc:identifier>
+  <dc:publisher>Büyük Doğu Yayınları</dc:publisher>
+  <dc:format>Ciltli</dc:format>
+  <dc:sizeOrDuration>576 s.</dc:sizeOrDuration>
+  <dc:language>Türkçe</dc:language> 
+</rdf:Description>
+    
+<rdf:Description rdf:about="Kardeşimin Hikayesi">
+  <dc:title>Kardeşimin Hikayesi</dc:title>
+  <dc:creator>Zülfü Livaneli</dc:creator>
+  <dc:date>11.2.2017</dc:date>
+  <dc:isVersionOf>75. Baskı</dc:isVersionOf>
+  <dc:identifier>ISBN: 6050914399</dc:identifier>
+  <dc:publisher>Doğan Yayınları</dc:publisher>
+  <dc:format>Ciltli</dc:format>
+  <dc:sizeOrDuration>330 s.</dc:sizeOrDuration>
+  <dc:language>Türkçe</dc:language> 
+</rdf:Description>
+    
+<rdf:Description rdf:about="Mavi Kuş">
+  <dc:title>Mavi Kuş</dc:title>
+  <dc:creator>Mustafa Kutlu</dc:creator>
+  <dc:date>1.2.2013</dc:date>
+  <dc:isVersionOf>19. Baskı</dc:isVersionOf>
+  <dc:identifier>ISBN: 9759953102</dc:identifier>
+  <dc:publisher>Dergah Yayınları</dc:publisher>
+  <dc:format>Ciltsiz</dc:format>
+  <dc:sizeOrDuration>211 s.</dc:sizeOrDuration>
+  <dc:language>Türkçe</dc:language> 
+</rdf:Description>
+    
+<rdf:Description rdf:about="Kadın Beyni Erkek Beyni">
+  <dc:title>Kadın Beyni Erkek Beyni</dc:title>
+  <dc:creator>Serkan Karaismailoğlu</dc:creator>
+  <dc:date>3.2.2016</dc:date>
+  <dc:isVersionOf>3. Baskı</dc:isVersionOf>
+  <dc:identifier>ISBN: 6055286781</dc:identifier>
+  <dc:publisher>Elma Yayınları</dc:publisher>
+  <dc:format>Ciltsiz</dc:format>
+  <dc:sizeOrDuration>224 s.</dc:sizeOrDuration>
+  <dc:language>Türkçe</dc:language> 
+</rdf:Description>
+    
+<rdf:Description rdf:about="Beyaz Gemi">
+  <dc:title>Beyaz Gemi</dc:title>
+  <dc:creator>Cengiz Aytmatov</dc:creator>
+  <dc:date>2017</dc:date>
+  <dc:isVersionOf>1. Baskı</dc:isVersionOf>
+  <dc:identifier>ISBN: 978-9752473003</dc:identifier>
+  <dc:publisher>Elma Yayınları</dc:publisher>
+  <dc:format>Ciltsiz</dc:format>
+  <dc:sizeOrDuration>184 s.</dc:sizeOrDuration>
+  <dc:language>Türkçe</dc:language> 
+</rdf:Description>
+
+<rdf:Description rdf:about="Sinekli Bakkal">
+  <dc:title>Sinekli Bakkal</dc:title>
+  <dc:creator>Halide edip Adıvar</dc:creator>
+  <dc:date>2016</dc:date>
+  <dc:isVersionOf>1. Baskı</dc:isVersionOf>
+  <dc:identifier>ISBN: 9789750721663</dc:identifier>
+  <dc:publisher>Can Yayınları</dc:publisher>
+  <dc:format>Ciltsiz</dc:format>
+  <dc:sizeOrDuration>424 s.</dc:sizeOrDuration>
+  <dc:language>Türkçe</dc:language> 
+</rdf:Description>
+    
+<rdf:Description rdf:about="Aganta Burina Burinata">
+  <dc:title>Sinekli Bakkal</dc:title>
+  <dc:creator>Cevat Şakir Kabaağaçlı</dc:creator>
+  <dc:date>2014</dc:date>
+  <dc:isVersionOf>1. Baskı</dc:isVersionOf>
+  <dc:identifier>ISBN: 978-9754941883</dc:identifier>
+  <dc:publisher>Bilgi Yayınları</dc:publisher>
+  <dc:format>Ciltsiz</dc:format>
+  <dc:sizeOrDuration>192 s.</dc:sizeOrDuration>
+  <dc:language>Türkçe</dc:language> 
+</rdf:Description>
+    
+<rdf:Description rdf:about="Esir Şehrin İnsanları">
+  <dc:title>Esir Şehrin İnsanları</dc:title>
+  <dc:creator>Kemal Tahir</dc:creator>
+  <dc:date>2016</dc:date>
+  <dc:isVersionOf>1. Baskı</dc:isVersionOf>
+  <dc:identifier>ISBN: 978-9752730762</dc:identifier>
+  <dc:publisher>İthaki Yayınları</dc:publisher>
+  <dc:format>Ciltsiz</dc:format>
+  <dc:sizeOrDuration>463 s.</dc:sizeOrDuration>
+  <dc:language>Türkçe</dc:language> 
+</rdf:Description>
+    
+<rdf:Description rdf:about="Kırmızı Saçlı Kadın">
+  <dc:title>Kırmızı Saçlı Kadın</dc:title>
+  <dc:creator>Orhan Pamuk</dc:creator>
+  <dc:date>2016</dc:date>
+  <dc:isVersionOf>1. Baskı</dc:isVersionOf>
+  <dc:identifier>ISBN: 978-9750835605</dc:identifier>
+  <dc:publisher>Yapı Kredi Yayınları</dc:publisher>
+  <dc:format>Ciltsiz</dc:format>
+  <dc:sizeOrDuration>204 s.</dc:sizeOrDuration>
+  <dc:language>Türkçe</dc:language> 
+</rdf:Description>
+    
+<rdf:Description rdf:about="Fahrenheit 451">
+  <dc:title>Fahrenheit 451</dc:title>
+  <dc:creator>Ray Bradbury</dc:creator>
+  <dc:date>2.2.2017</dc:date>
+  <dc:isVersionOf>7. Baskı</dc:isVersionOf>
+  <dc:identifier>ISBN: 6053751670</dc:identifier>
+  <dc:publisher>İthaki Yayınları</dc:publisher>
+  <dc:format>Ciltsiz</dc:format>
+  <dc:sizeOrDuration>247 s.</dc:sizeOrDuration>
+  <dc:language>Türkçe</dc:language> 
+</rdf:Description>
+
+<rdf:Description rdf:about="Otomatik Portakal">
+  <dc:title>Otomatik Portakal</dc:title>
+  <dc:creator>Anthony Burgess</dc:creator>
+  <dc:date>7.2.2017</dc:date>
+  <dc:isVersionOf>26. Baskı</dc:isVersionOf>
+  <dc:identifier>ISBN: 9944885706</dc:identifier>
+  <dc:publisher>Türkiye İş Bankası Yayınları</dc:publisher>
+  <dc:format>Ciltsiz</dc:format>
+  <dc:sizeOrDuration>172 s.</dc:sizeOrDuration>
+  <dc:language>Türkçe</dc:language> 
+</rdf:Description>
+    
+<rdf:Description rdf:about="Hayvan Çiftliği">
+  <dc:title>Hayvan Çiftliği</dc:title>
+  <dc:creator>George Orwell</dc:creator>
+  <dc:date>11.11.2016</dc:date>
+  <dc:isVersionOf>48. Baskı</dc:isVersionOf>
+  <dc:identifier>ISBN: 9750719387</dc:identifier>
+  <dc:publisher>Can Yayınları</dc:publisher>
+  <dc:format>Ciltsiz</dc:format>
+  <dc:sizeOrDuration>152 s.</dc:sizeOrDuration>
+  <dc:language>Türkçe</dc:language> 
+</rdf:Description>
+
+
+</rdf:RDF>

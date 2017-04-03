@@ -1,0 +1,630 @@
+
+<xml version="1.0" encoding="UTF-8">
+
+
+<bookShop>
+
+    <books>
+        <book category="novel">
+            <bookID>1</bookID>
+            <bookName>Nar Ağacı</bookName>
+            <publishingDate>23.11.2016</publishingDate>
+            <bookEdition>19</bookEdition>
+            <ISBN>6050807073</ISBN>
+            <bookType>Ciltsiz</bookType>
+            <Language>Türkçe</Language>
+            <page>536</page>
+            <bookPrice>20.00</bookPrice>
+            <authorName>Nazan Bekiroğlu</authorName>
+            <publishername>Timaş Yayınları</publishername>
+        </book> 
+        
+        <book category="novel">
+            <bookID>2</bookID>
+            <bookName>Kürk Mantolu Madonna</bookName>
+            <publishingDate>20.3.2017</publishingDate>
+            <bookEdition>85</bookEdition>
+            <ISBN>9753638029</ISBN>
+            <bookType>Ciltsiz</bookType>
+            <Language>Türkçe</Language>
+            <page>160</page>
+            <bookPrice>16.00</bookPrice>
+            <authorName>Sabahattin Ali</authorName>
+            <publisherName>Yapı Kredi Yyınları</publisherName>
+        </book>
+        
+        <book category="novel">
+            <bookID>3</bookID>
+            <bookName>Su</bookName>
+            <publishingDate>22.3.2017</publishingDate>
+            <bookEdition>9</bookEdition>
+            <ISBN>6051410036</ISBN>
+            <bookType>Ciltsiz</bookType>
+            <Language>Türkçe</Language>
+            <page>344</page>
+            <bookPrice>14.00</bookPrice>
+            <authorName>Buket Uzuner</authorName>
+            <publisherName>Everest Yayınları</publisherName>
+        </book>
+        
+        <book category="novel">
+            <bookID>4</bookID>
+            <bookName>İdeolaçya Örgüsü</bookName>
+            <publishingDate>26.1.2017</publishingDate>
+            <bookEdition>1</bookEdition>
+            <ISBN>6059535014</ISBN>
+            <bookType>Ciltli</bookType>
+            <Language>Türkçe</Language>
+            <page>576</page>
+            <bookPrice>59.00</bookPrice>
+            <authorName>Necip Fazıl Kısakürek</authorName>
+            <publisherName>Büyük Doğu Yayınları</publisherName>
+        </book>
+        
+        <book category="novel">
+            <bookID>5</bookID>
+            <bookName>Kardeşimin Hikayesi</bookName>
+            <publishingDate>11.2.2017</publishingDate>
+            <bookEdition>75</bookEdition>
+            <ISBN>6050914399</ISBN>
+            <bookType>Ciltli</bookType>
+            <Language>Türkçe</Language>
+            <page>330</page>
+            <bookPrice>21.00</bookPrice>
+            <authorName>Zülfü Livaneli</authorName>
+            <publisherName>Doğan Yayınları</publisherName>
+        </book>
+        
+        <book category="novel">
+            <bookID>6</bookID>
+            <bookName>Mavi Kuş</bookName>
+            <publishingDate>1.2.2013</publishingDate>
+            <bookEdition>19</bookEdition>
+            <ISBN>9759953102</ISBN>
+            <bookType>Ciltsiz</bookType>
+            <Language>Türkçe</Language>
+            <page>211</page>
+            <bookPrice>12.00</bookPrice>
+            <authorName>Mustafa Kutlu</authorName>
+            <publisherName>Dergah Yayınları</publisherName>
+        </book>
+        
+        <book category="novel">
+            <bookID>7</bookID>
+            <bookName>Kadın Beyni Erkek Beyni</bookName>
+            <publishingDate>3.2.2016</publishingDate>
+            <bookEdition>3</bookEdition>
+            <ISBN>6055286781</ISBN>
+            <bookType>Ciltsiz</bookType>
+            <Language>Türkçe</Language>
+            <page>224</page>
+            <bookPrice>15.00</bookPrice>
+            <authorName>Serkan Karaismailoğlu</authorName>
+            <publisherName>Elma Yayınları</publisherName>
+        </book>
+        
+        <book category="novel">
+            <bookID>8</bookID>
+            <bookName>Beyaz Gemi </bookName>
+            <publishingDate>2017</publishingDate>
+            <bookEdition>1</bookEdition>
+            <ISBN>978-9752473003</ISBN>
+            <bookType>Ciltsiz</bookType>
+            <Language>Türkçe</Language>
+            <page>184</page>
+            <bookPrice>7.00</bookPrice>
+            <authorName>Cengiz Aytmatov</authorName>
+            <publisherName>Nora Yayınlaı</publisherName>
+        </book>
+        
+        <book category="novel">
+            <bookID>9</bookID>
+            <bookName>Sinekli Bakkal</bookName>
+            <publishingDate>2016</publishingDate>
+            <bookEdition>1</bookEdition>
+            <ISBN> 9789750721663</ISBN>
+            <bookType>Ciltsiz</bookType>
+            <Language>Türkçe</Language>
+            <page>424</page>
+            <bookPrice>24.00</bookPrice>
+            <authorName>Halide Edib Adıvar</authorName>
+            <publisherName>Can Yayınları</publisherName>
+        </book>
+        
+        <book category="novel">
+            <bookID>10</bookID>
+            <bookName>Aganta Burina Burinata</bookName>
+            <publishingDate>2014</publishingDate>
+            <bookEdition>1</bookEdition>
+            <ISBN>978-9754941883</ISBN>
+            <bookType>Ciltsiz</bookType>
+            <Language>Türkçe</Language>
+            <page>192</page>
+            <bookPrice>13.00</bookPrice>
+            <authorName>Cevat Şakir Kabaağaçlı</authorName>
+            <publisherName>Bilgi Yayınları</publisherName>
+        </book>
+        
+        <book category="novel">
+            <bookID>11</bookID>
+            <bookName>Esir Şehrin İnsanları</bookName>
+            <publishingDate>2016</publishingDate>
+            <bookEdition>1</bookEdition>
+            <ISBN>978-9752730762</ISBN>
+            <bookType>Ciltsiz</bookType>
+            <Language>Türkçe</Language>
+            <page>463</page>
+            <bookPrice>13.00</bookPrice>
+            <authorName>Kemal Tahir</authorName>
+            <publisherName>İthaki Yayınları</publisherName>
+        </book>
+        
+        <book category="novel">
+            <bookID>12</bookID>
+            <bookName>Kırmızı Saçlı Kadın</bookName>
+            <publishingDate>2016</publishingDate>
+            <bookEdition>1</bookEdition>
+            <ISBN>978-9750835605</ISBN>
+            <bookType>Ciltsiz</bookType>
+            <Language>Türkçe</Language>
+            <page>204</page>
+            <bookPrice>9.00</bookPrice>
+            <authorName>Orhan Pamuk</authorName>
+            <publisherName>Can Yayınları</publisherName>
+        </book>
+        
+        <book category="novel">
+            <bookID>13</bookID>
+            <bookName>Fahrenheit 451</bookName>
+            <publishingDate>2.2.2017</publishingDate>
+            <bookEdition>7</bookEdition>
+            <ISBN>6053751670</ISBN>
+            <bookType>Ciltsiz</bookType>
+            <Language>Türkçe</Language>
+            <page>247</page>
+            <bookPrice>12.00</bookPrice>
+            <authorName>Ray Bradbury</authorName>
+            <publisherName>İthaki Yayınları</publisherName>
+        </book>
+        
+        <book category="novel">
+            <bookID>14</bookID>
+            <bookName>Otomatik Portakal</bookName>
+            <publishingDate>7.2.2017</publishingDate>
+            <bookEdition>26</bookEdition>
+            <ISBN>9944885706</ISBN>
+            <bookType>Ciltsiz</bookType>
+            <Language>Türkçe</Language>
+            <page>172</page>
+            <bookPrice>10.00</bookPrice>
+            <authorName>Anthony Burgess</authorName>
+            <publisherName>Akçağ Yayınları</publisherName>
+        </book>
+        
+        <book category="novel">
+            <bookID>15</bookID>
+            <bookName>Hayvan Çiftliği</bookName>
+            <publishingDate>11.11.2016</publishingDate>
+            <bookEdition>48</bookEdition>
+            <ISBN>9750719387</ISBN>
+            <bookType>Ciltli</bookType>
+            <Language>Türkçe</Language>
+            <page>152</page>
+            <bookPrice>10.00</bookPrice>
+            <authorName>George Orwell</authorName>
+            <publisherName>Türkiye İş Bankası Yayınları</publisherName>
+        </book>
+        
+    </books>
+    
+    
+    <authors>
+        <author gender="female">
+            <authorID>1</authorID>
+            <authorName>Nazan</authorName>
+            <authorSurname>Bekiroğlu</authorSurname>
+            <birthDate>5.3.1957</birthDate>
+            <deathDate>?</deathDate>
+            <country>Türkiye</country>
+            <city>Trabzon</city>
+            <language>Türkçe</language>
+            <bookNae>Nar Ağacı</bookNae>
+        </author>
+        
+        <author gender="male">
+            <authorID>2</authorID>
+            <authorName>Sabahattin</authorName>
+            <authorSurname>Ali</authorSurname>
+            <birthDate>25.2.1907</birthDate>
+            <deathDate>2.4.1948</deathDate>
+            <country>Bulgaristan</country>
+            <city>Eğridere</city>
+            <language>Türkçe</language>
+            <bookName>Kürk Mantolu Madonna</bookName>
+        </author>
+        
+        <author gender="female">
+            <authorID>3</authorID>
+            <authorName>Buket</authorName>
+            <authorSurname>Uzuner</authorSurname>
+            <birthDate>3.10.1955</birthDate>
+            <deathDate>?</deathDate>
+            <country>Türkiye</country>
+            <city>Ankara</city>
+            <language>Türkçe</language>
+            <bookName>Su</bookName>
+        </author>
+        
+        <author gender="male">
+            <authorID>4</authorID>
+            <authorName>Necip Fazıl</authorName>
+            <authorSurname>Kısakürek</authorSurname>
+            <birthDate>26.5.201904</birthDate>
+            <deathDate>25.5.1983</deathDate>
+            <country>Türkiye</country>
+            <city>İstanbul</city>
+            <language>Türkçe</language>
+            <bookName>İdeolaçya Örgüsü</bookName>
+        </author>
+        
+        <author gender="male">
+            <authorID>5</authorID>
+            <authorName>Zülfü</authorName>
+            <authorSurname>Livaneli</authorSurname>
+            <birthDate>20.6.1946</birthDate>
+            <deathDate>?</deathDate>
+            <country>Türkiye</country>
+            <city>Konya</city>
+            <language>Türkçe</language>
+            <bookName>Kardeşimin Hikayesi</bookName>
+        </author>
+        
+        <author gender="male">
+            <authorID>6</authorID>
+            <authorName>Mustafa</authorName>
+            <authorSurname>Kutlu</authorSurname>
+            <birthDate>6.3.1945</birthDate>
+            <deathDate>?</deathDate>
+            <country>Türkiye</country>
+            <city>Erzincan</city>
+            <language>Türkçe</language>
+            <bookName>Mavi Kuş</bookName>
+        </author>
+        
+        <author gender="male">
+            <authorID>7</authorID>
+            <authorName>Serkan</authorName>
+            <authorSurname>Karaismailoğlu</authorSurname>
+            <birthDate>?</birthDate>
+            <deathDate>?</deathDate>
+            <country>Türkiye</country>
+            <city>-</city>
+            <language>Türkçe</language>
+            <bookName>Kadın Beyni Erkek Beyni</bookName>
+        </author>
+        
+        <author gender="male">
+            <authorID>8</authorID>
+            <authorName>Cengiz</authorName>
+            <authorSurname>Aytmatov</authorSurname>
+            <birthDate>12.12.1928</birthDate>
+            <deathDate>10.6.2008</deathDate>
+            <country>Kırgızistan</country>
+            <city>Talas</city>
+            <language>Türkçe</language>
+            <bookName>Beyaz Gemi</bookName>
+        </author>
+        
+        <author gender="female">
+            <authorID>9</authorID>
+            <authorName>Halide Edib</authorName>
+            <authorSurname>Adıvar</authorSurname>
+            <birthDate>1882</birthDate>
+            <deathDate>9.1.1964</deathDate>
+            <country>Türkiye</country>
+            <city>İstanbul</city>
+            <language>Türkçe</language>
+            <bookName>Sinekli Bakkal</bookName>
+        </author>
+        
+        <author gender="male">
+            <authorID>10</authorID>
+            <authorName>Cevat Şakir</authorName>
+            <authorSurname>Kabaağaçlı</authorSurname>
+            <birthDate>17.04.1890</birthDate>
+            <deathDate>13.10.1973</deathDate>
+            <country>Yunanistan</country>
+            <city>Girit</city>
+            <language>Türkçe</language>
+            <bookName>Aganta Burina Burinata</bookName>
+        </author>
+        
+        <author gender="male">
+            <authorID>11</authorID>
+            <authorName>Kemal</authorName>
+            <authorSurname>Tahir</authorSurname>
+            <birthDate>13.3.1910</birthDate>
+            <deathDate>21.4.1973</deathDate>
+            <country>Türkiye</country>
+            <city>İstanbul</city>
+            <language>Türkçe</language>
+            <bookName>esir Şehrin İnsanları</bookName>
+        </author>
+        
+        <author gender="male">
+            <authorID>12</authorID>
+            <authorName>Orhan</authorName>
+            <authorSurname>Pamuk</authorSurname>
+            <birthDate>7.6.1952</birthDate>
+            <deathDate>?</deathDate>
+            <country>Türkiye</country>
+            <city>İstanbul</city>
+            <language>Türkçe</language>
+            <bookName>Kırmızı Saçlı Kadın</bookName>
+        </author>
+        
+        <author gender="male">
+            <authorID>13</authorID>
+            <authorName>Anthony</authorName>
+            <authorSurname>Burgess</authorSurname>
+            <birthDate>25.2.1917</birthDate>
+            <deathDate>22.11.1993</deathDate>
+            <country>İngiltere</country>
+            <city>Manchester</city>
+            <language>İngilizce</language>
+            <bookName>Otomatik Portakal</bookName>
+        </author>
+        
+        <author gender="male">
+            <authorID>14</authorID>
+            <authorName>George</authorName>
+            <authorSurname>Orwell</authorSurname>
+            <birthDate>25.6.1903</birthDate>
+            <deathDate>21.1.1950</deathDate>
+            <country>İngiltere</country>
+            <city>Londra</city>
+            <language>İngilizce</language>
+            <bookName>1984</bookName>
+        </author>
+        
+        <author gender="male">
+            <authorID>15</authorID>
+            <authorName>Ray</authorName>
+            <authorSurname>Bradbury</authorSurname>
+            <birthDate>22.8.1920</birthDate>
+            <deathDate>5.6.2012</deathDate>
+            <country>ABD</country>
+            <city>İllinois</city>
+            <language>İngilizce</language>
+            <bookName>Fahrenheit 451</bookName>
+        </author>
+    </authors>
+    
+    
+    <publishers>
+        <publisher>
+            <publisherID>1</publisherID>
+            <publisherName>Timaş</publisherName>
+            <foundationDate>1982</foundationDate>
+            <publisherPhone>0212 511 24 24</publisherPhone>
+        </publisher>
+        
+        <publisher>
+            <publisherID>2</publisherID>
+            <publisherName>Yapı Kredi</publisherName>
+            <foundationDate>1944</foundationDate>
+            <publisherPhone>0312 435 85 94</publisherPhone>
+        </publisher>
+        
+        <publisher>
+            <publisherID>3</publisherID>
+            <publisherName>Everest</publisherName>
+            <foundationDate>1990</foundationDate>
+            <publisherPhone>0212 513 34 20 21</publisherPhone>
+        </publisher>
+        
+        <publisher>
+            <publisherID>4</publisherID>
+            <publisherName>Büyük Doğu</publisherName>
+            <foundationDate>1943</foundationDate>
+            <publisherPhone>0216 546 10 25</publisherPhone>
+        </publisher>
+        
+        <publisher>
+            <publisherID>5</publisherID>
+            <publisherName>Dergah</publisherName>
+            <foundationDate>1976</foundationDate>
+            <publisherPhone>0212 518 95 78</publisherPhone>
+        </publisher>
+        
+        <publisher>
+            <publisherID>6</publisherID>
+            <publisherName>Doğan</publisherName>
+            <foundationDate>1999</foundationDate>
+            <publisherPhone>0212 373 77 00</publisherPhone>
+        </publisher>
+        
+        <publisher>
+            <publisherID>7</publisherID>
+            <publisherName>Elma</publisherName>
+            <foundationDate>1998</foundationDate>
+            <publisherPhone>0312 417 72 73</publisherPhone>
+        </publisher>
+        
+        <publisher>
+            <publisherID>8</publisherID>
+            <publisherName>Nora</publisherName>
+            <foundationDate>?</foundationDate>
+            <publisherPhone>?</publisherPhone>
+        </publisher>
+        
+        <publisher>
+            <publisherID>9</publisherID>
+            <publisherName>Can</publisherName>
+            <foundationDate>1981</foundationDate>
+            <publisherPhone>0212 252 56 75</publisherPhone>
+        </publisher>
+        
+        <publisher>
+            <publisherID>10</publisherID>
+            <publisherName>Bilgi</publisherName>
+            <foundationDate>1965</foundationDate>
+            <publisherPhone>0312 431 81 22</publisherPhone>
+            <adressID>10</adressID>
+        </publisher>
+        
+        <publisher>
+            <publisherID>11</publisherID>
+            <publisherName>İthaki</publisherName>
+            <foundationDate>2002</foundationDate>
+            <publisherPhone>0216 348 36 97</publisherPhone>
+        </publisher>
+        
+        <publisher>
+            <publisherID>12</publisherID>
+            <publisherName>Akçağ</publisherName>
+            <foundationDate>1998</foundationDate>
+            <publisherPhone> 0312 433 86 51</publisherPhone>
+        </publisher>
+        
+        <publisher>
+            <publisherID>13</publisherID>
+            <publisherName>Türkiye İş Bankası</publisherName>
+            <foundationDate>1956</foundationDate>
+            <publisherPhone>0212 252 3991</publisherPhone>
+        </publisher>
+        
+    </publishers>
+    
+    
+    
+    <adresses>
+        
+        <adress>
+            <adressID>1</adressID>
+            <district>Alemdar</district>
+            <street>Alayköşkü</street>
+            <doorNumber>5</doorNumber>
+            <postCode>34110</postCode>
+            <country>Fatih</country>
+            <province>İstanbul</province>
+        </adress>
+        
+        <adress>
+            <adressID>2</adressID>
+            <district>Kızılay</district>
+            <street>Atatürk</street>
+            <doorNumber>93</doorNumber>
+            <postCode>6430</postCode>
+            <country>Çankaya</country>
+            <province>Ankara</province>
+        </adress>
+        
+        <adress>
+            <adressID>3</adressID>
+            <district>Ticarethane</district>
+            <street></street>
+            <doorNumber>15</doorNumber>
+            <postCode>34410</postCode>
+            <country>Fatih</country>
+            <province>İstanbul</province>
+        </adress>
+        
+        <adress>
+            <adressID>4</adressID>
+            <district>Hasanpaşa</district>
+            <street>Uzunçayır</street>
+            <doorNumber>24</doorNumber>
+            <postCode>34122</postCode>
+            <country>Kadıköy</country>
+            <province>İstanbul</province>
+        </adress>
+        
+        <adress>
+            <adressID>5</adressID>
+            <district>Binbirdirek</district>
+            <street>Klodfarer</street>
+            <doorNumber>20</doorNumber>
+            <postCode>34122</postCode>
+            <country>Fatih</country>
+            <province>İstanbul</province>
+        </adress>
+        
+        <adress>
+            <adressID>6</adressID>
+            <district>-</district>
+            <street>19 Mayıs</street>
+            <doorNumber>1</doorNumber>
+            <postCode>34360</postCode>
+            <country>Şişli</country>
+            <province>İstanbul</province>
+        </adress>
+        
+        <adress>
+            <adressID>7</adressID>
+            <district>Aziziye</district>
+            <street>-</street>
+            <doorNumber>37</doorNumber>
+            <postCode>6690</postCode>
+            <country>Çankaya</country>
+            <province>Ankara</province>
+        </adress>
+        
+        <adress>
+            <adressID>8</adressID>
+            <district>Kuloğlu</district>
+            <street>Hayriye</street>
+            <doorNumber>2</doorNumber>
+            <postCode>34433</postCode>
+            <country>Beyoğlu</country>
+            <province>İstanbul</province>
+        </adress>
+        
+        <adress>
+            <adressID>9</adressID>
+            <district>Kültür</district>
+            <street>Meşrutiyet</street>
+            <doorNumber>46</doorNumber>
+            <postCode>6420</postCode>
+            <country>Çankaya</country>
+            <province>Ankara</province>
+        </adress>
+        
+        <adress>
+            <adressID>10</adressID>
+            <district>caferağa</district>
+            <street>-</street>
+            <doorNumber>31</doorNumber>
+            <postCode>1907</postCode>
+            <country>Kadıköy</country>
+            <province>İstanbul</province>
+        </adress>
+        
+        <adress>
+            <adressID>11</adressID>
+            <district>-</district>
+            <street>Tuna</street>
+            <doorNumber>8</doorNumber>
+            <postCode>6430</postCode>
+            <country>Çankaya</country>
+            <province>Ankara</province>
+        </adress>
+        
+        <adress>
+            <adressID>12</adressID>
+            <district>Meşeli</district>
+            <street>İstiklal</street>
+            <doorNumber>2</doorNumber>
+            <postCode>34433</postCode>
+            <country>Beyoğlu</country>
+            <province>İstanbul</province>
+        </adress>
+        
+     </adresses>
+    
+    
+    
+    
+    </bookShop>
+
+ 
