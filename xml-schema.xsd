@@ -22,10 +22,6 @@
   </xs:complexType>
 </xs:element>
 
-</xs:schema>
-
-
-
 
 <xs:element name="authors">
   <xs:complexType>
@@ -46,9 +42,6 @@
 
 
 
-
-
-
 <xs:element name="publishers">
   <xs:complexType>
     <xs:sequence>
@@ -60,9 +53,6 @@
     </xs:sequence>
   </xs:complexType>
 </xs:element>
-
-
-
 
 
 
@@ -81,3 +71,5 @@
   </xs:complexType>
 </xs:element>
 
+    
+    </xs:schema>
